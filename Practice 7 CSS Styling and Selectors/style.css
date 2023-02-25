@@ -1,0 +1,11 @@
+/* html type selector, allow how the selected elements are displayed 
+following style will be applied to every h1 element
+*/
+h1 {
+    color:purple;
+}
+
+/*Want to apply only specific element, use ID using # */
+#header1{
+    color:green;
+}
